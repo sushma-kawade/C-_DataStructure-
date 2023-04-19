@@ -1,3 +1,15 @@
+//////////////////////////////////////////////////////////////////////////////
+//
+// Function Name :  DisplaySmall()  
+// Description   :  Singly Linear Linked List
+// Input         :  Integer
+// Output        :  Integer
+// Author        :  Sushma Kawade
+// Date          :  5 feb 2023
+//
+////////////////////////////////////////////////////////////////////////////
+
+
 #include<iostream>
 using namespace std;
 
